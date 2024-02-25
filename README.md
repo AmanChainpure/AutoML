@@ -1,5 +1,7 @@
 # AutoML
-AutoML is a Streamlit based tool used to automate conventional Machine Learning Classification & Regression problems
+
+
+## AutoML is a Streamlit based tool used to automate conventional Machine Learning Classification & Regression problems
 
 This tool can be used for any classification or regression data.
 Steps:
