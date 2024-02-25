@@ -26,3 +26,6 @@ Steps:
 - save the model as a pickle file
 - Now, upload the saved pkl file
 - Upload test data, get predictions
+
+## Streamlit UI 
+![AutoML UI](https://github.com/AmanChainpure/AutoML/assets/161191503/1253d564-bedf-4a2b-ac92-6b4eb96c7ab2)
