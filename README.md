@@ -11,11 +11,11 @@ Steps:
 - then, we can see first five rows of df
 - then there is option window where we can select features and target
 - df description
-- simple eda
-- Data Types of Each Column, also tell if they are not uniform
-- then do Label Encoding for Categorical Variables
-- Imputing Missing Values for numerical using mean and categorical using mode
-- show first five rows of updated df
+- EDA
+- Data Types of Each Column, also tells if they are not uniform throughout
+- then does Label Encoding for Categorical Variables
+- Imputes Missing Values for numerical using mean and categorical using mode
+- Shows first five rows of updated df
 - Heatmap for numerical values of updated df
 - Scaling for updated df
 - Updated DataFrame after Standard Scaling first 5 rows
